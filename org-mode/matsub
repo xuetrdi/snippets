@@ -1,0 +1,23 @@
+# -*- mode: org-mode -*-
+# name: matsub
+# key: <matsub
+# --
+\begin{displaymath}
+  \left[
+    \begin{matrix}
+      $1
+    \end{matrix}
+  \right]
+  -
+  \left[
+    \begin{matrix}
+      $2
+    \end{matrix}
+  \right]
+  =
+  \left[
+    \begin{matrix}
+      $3
+    \end{matrix}
+  \right]
+\end{displaymath}

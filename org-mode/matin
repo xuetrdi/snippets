@@ -1,0 +1,23 @@
+# -*- mode: org-mode -*-
+# name: matin
+# key: <matin
+# --
+\begin{displaymath}
+  \left[
+    \begin{matrix}
+      $1
+    \end{matrix}
+  \right]
+  \odot
+  \left[
+    \begin{matrix}
+      $2
+    \end{matrix}
+  \right]
+  =
+  \left[
+    \begin{matrix}
+      $3
+    \end{matrix}
+  \right]
+\end{displaymath}

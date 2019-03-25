@@ -1,0 +1,11 @@
+# -*- mode: org-mode -*-
+# name: mat
+# key: <mat
+# --
+\begin{displaymath}
+\left[
+  \begin{matrix}
+    $1
+  \end{matrix}
+\right]
+\end{displaymath}

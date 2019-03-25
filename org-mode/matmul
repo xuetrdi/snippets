@@ -1,0 +1,23 @@
+# -*- mode: org-mode -*-
+# name: matmul
+# key: <matmul
+# --
+\begin{displaymath}
+  \left[
+    \begin{matrix}
+      $1
+    \end{matrix}
+  \right]
+  \times
+  \left[
+    \begin{matrix}
+      $2
+    \end{matrix}
+  \right]
+  =
+  \left[
+    \begin{matrix}
+      $3
+    \end{matrix}
+  \right]
+\end{displaymath}
