@@ -2,10 +2,8 @@
 # name: mat
 # key: <mat
 # --
-\begin{displaymath}
-\left[
-  \begin{matrix}
+\begin{displaymath*}
+  \begin{bmatrix*}
     $1
-  \end{matrix}
-\right]
-\end{displaymath}
+  \end{bmatrix*}
+\end{displaymath*}

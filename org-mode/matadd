@@ -2,22 +2,16 @@
 # name: matadd
 # key: <matadd
 # --
-\begin{displaymath}
-  \left[
-    \begin{matrix}
-      $1
-    \end{matrix}
-  \right]
+\begin{displaymath*}
+  \begin{bmatrix*}
+    $1
+  \end{bmatrix*}
   +
-  \left[
-    \begin{matrix}
-      $2
-    \end{matrix}
-  \right]
+  \begin{bmatrix*}
+    $2
+  \end{bmatrix*}
   =
-  \left[
-    \begin{matrix}
-      $3
-    \end{matrix}
-  \right]
-\end{displaymath}
+  \begin{bmatrix*}
+    $3
+  \end{bmatrix*}
+\end{displaymath*}
